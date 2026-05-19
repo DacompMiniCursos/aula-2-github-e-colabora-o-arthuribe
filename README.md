@@ -16,3 +16,11 @@ Abra os arquivos do projeto e execute os códigos normalmente pelo VS Code.
 
 ## Autor
 Arthur Brito Moura e Silva
+
+## Colaboradores:
+
+
+### **João Ricardo**:
+![User](https://img.shields.io/badge/GIT-Joaomb15-blue?logo=github)
+* GitHub: [Joaomb15](https://github.com/Joaomb15)
+* E-mail: joaoricardomb15@gmail.com
